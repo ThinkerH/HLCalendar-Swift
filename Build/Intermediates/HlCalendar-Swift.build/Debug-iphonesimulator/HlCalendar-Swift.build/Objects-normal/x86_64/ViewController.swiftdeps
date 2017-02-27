@@ -1,0 +1,546 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C16HlCalendar_Swift14ViewController"
+provides-member:
+- ["C16HlCalendar_Swift14ViewController", ""]
+provides-dynamic-lookup:
+- "monthesNum"
+- "didReceiveMemoryWarning"
+- "btnClickAction"
+- "selectDate"
+- "btn"
+- "viewDidLoad"
+depends-top-level:
+- !private "BooleanLiteralType"
+- !private "!="
+- !private "UINavigationController"
+- "UITextField"
+- "ViewController"
+- "UIViewController"
+- !private "Int"
+- !private "HLCalendarVC"
+- "AssignmentPrecedence"
+- "UIButton"
+- "Date"
+- !private "String"
+- "TernaryPrecedence"
+depends-member:
+- !private ["Ps9AnyObject", "Date"]
+- !private ["Ps9AnyObject", "HLCalendarVC"]
+- !private ["Ps9AnyObject", "Int"]
+- !private ["Ps9AnyObject", "UINavigationController"]
+- ["Ps9AnyObject", "btn"]
+- ["Ps9AnyObject", "btnClickAction"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "didSelectDate"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "montherNum"]
+- ["Ps9AnyObject", "monthesNum"]
+- !private ["Ps9AnyObject", "present"]
+- ["Ps9AnyObject", "selectDate"]
+- !private ["Ps9AnyObject", "setTitle"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "setTitle"]
+- !private ["PSo15CALayerDelegate", "text"]
+- !private ["Ps7CVarArg", "Date"]
+- !private ["Ps7CVarArg", "HLCalendarVC"]
+- !private ["Ps7CVarArg", "Int"]
+- !private ["Ps7CVarArg", "UINavigationController"]
+- ["Ps7CVarArg", "btn"]
+- ["Ps7CVarArg", "btnClickAction"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "didSelectDate"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "montherNum"]
+- ["Ps7CVarArg", "monthesNum"]
+- !private ["Ps7CVarArg", "present"]
+- ["Ps7CVarArg", "selectDate"]
+- !private ["Ps7CVarArg", "setTitle"]
+- !private ["Ps7CVarArg", "text"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Date"]
+- !private ["Ps28CustomDebugStringConvertible", "HLCalendarVC"]
+- !private ["Ps28CustomDebugStringConvertible", "Int"]
+- !private ["Ps28CustomDebugStringConvertible", "UINavigationController"]
+- ["Ps28CustomDebugStringConvertible", "btn"]
+- ["Ps28CustomDebugStringConvertible", "btnClickAction"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "didSelectDate"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "montherNum"]
+- ["Ps28CustomDebugStringConvertible", "monthesNum"]
+- !private ["Ps28CustomDebugStringConvertible", "present"]
+- ["Ps28CustomDebugStringConvertible", "selectDate"]
+- !private ["Ps28CustomDebugStringConvertible", "setTitle"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Date"]
+- !private ["Ps23CustomStringConvertible", "HLCalendarVC"]
+- !private ["Ps23CustomStringConvertible", "Int"]
+- !private ["Ps23CustomStringConvertible", "UINavigationController"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "btn"]
+- ["Ps23CustomStringConvertible", "btnClickAction"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "didSelectDate"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "montherNum"]
+- ["Ps23CustomStringConvertible", "monthesNum"]
+- !private ["Ps23CustomStringConvertible", "present"]
+- ["Ps23CustomStringConvertible", "selectDate"]
+- !private ["Ps23CustomStringConvertible", "setTitle"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["V10Foundation4Date", "deinit"]
+- !private ["V10Foundation4Date", "init"]
+- !private ["Ps9Equatable", "Date"]
+- !private ["Ps9Equatable", "HLCalendarVC"]
+- !private ["Ps9Equatable", "Int"]
+- !private ["Ps9Equatable", "UINavigationController"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "btn"]
+- ["Ps9Equatable", "btnClickAction"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "didSelectDate"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "montherNum"]
+- ["Ps9Equatable", "monthesNum"]
+- !private ["Ps9Equatable", "normal"]
+- !private ["Ps9Equatable", "present"]
+- ["Ps9Equatable", "selectDate"]
+- !private ["Ps9Equatable", "setTitle"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "normal"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["C16HlCalendar_Swift12HLCalendarVC", "deinit"]
+- !private ["C16HlCalendar_Swift12HLCalendarVC", "didSelectDate"]
+- !private ["C16HlCalendar_Swift12HLCalendarVC", "init"]
+- !private ["C16HlCalendar_Swift12HLCalendarVC", "montherNum"]
+- !private ["C16HlCalendar_Swift12HLCalendarVC", "selectDate"]
+- !private ["Ps8Hashable", "Date"]
+- !private ["Ps8Hashable", "HLCalendarVC"]
+- !private ["Ps8Hashable", "Int"]
+- !private ["Ps8Hashable", "UINavigationController"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "btn"]
+- ["Ps8Hashable", "btnClickAction"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "didSelectDate"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "montherNum"]
+- ["Ps8Hashable", "monthesNum"]
+- !private ["Ps8Hashable", "present"]
+- ["Ps8Hashable", "selectDate"]
+- !private ["Ps8Hashable", "setTitle"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Si", "init"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "Date"]
+- !private ["PSo8NSCoding", "HLCalendarVC"]
+- !private ["PSo8NSCoding", "Int"]
+- !private ["PSo8NSCoding", "UINavigationController"]
+- ["PSo8NSCoding", "btn"]
+- ["PSo8NSCoding", "btnClickAction"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "didSelectDate"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "montherNum"]
+- ["PSo8NSCoding", "monthesNum"]
+- !private ["PSo8NSCoding", "present"]
+- ["PSo8NSCoding", "selectDate"]
+- !private ["PSo8NSCoding", "setTitle"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "Date"]
+- !private ["PSo26NSExtensionRequestHandling", "HLCalendarVC"]
+- !private ["PSo26NSExtensionRequestHandling", "Int"]
+- !private ["PSo26NSExtensionRequestHandling", "UINavigationController"]
+- ["PSo26NSExtensionRequestHandling", "btn"]
+- ["PSo26NSExtensionRequestHandling", "btnClickAction"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "didSelectDate"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "montherNum"]
+- ["PSo26NSExtensionRequestHandling", "monthesNum"]
+- !private ["PSo26NSExtensionRequestHandling", "present"]
+- ["PSo26NSExtensionRequestHandling", "selectDate"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "Date"]
+- !private ["CSo8NSObject", "HLCalendarVC"]
+- !private ["CSo8NSObject", "Int"]
+- !private ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UINavigationController"]
+- ["CSo8NSObject", "UITextField"]
+- ["CSo8NSObject", "btn"]
+- ["CSo8NSObject", "btnClickAction"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "didSelectDate"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "montherNum"]
+- ["CSo8NSObject", "monthesNum"]
+- !private ["CSo8NSObject", "present"]
+- ["CSo8NSObject", "selectDate"]
+- !private ["CSo8NSObject", "setTitle"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "Date"]
+- !private ["PSo16NSObjectProtocol", "HLCalendarVC"]
+- !private ["PSo16NSObjectProtocol", "Int"]
+- !private ["PSo16NSObjectProtocol", "UINavigationController"]
+- ["PSo16NSObjectProtocol", "btn"]
+- ["PSo16NSObjectProtocol", "btnClickAction"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "didSelectDate"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "montherNum"]
+- ["PSo16NSObjectProtocol", "monthesNum"]
+- !private ["PSo16NSObjectProtocol", "present"]
+- ["PSo16NSObjectProtocol", "selectDate"]
+- !private ["PSo16NSObjectProtocol", "setTitle"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Ps9OptionSet", "normal"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "normal"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps10SetAlgebra", "normal"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "init"]
+- !private ["SS", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "setTitle"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "setTitle"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "Date"]
+- !private ["PSo21UIAppearanceContainer", "HLCalendarVC"]
+- !private ["PSo21UIAppearanceContainer", "Int"]
+- !private ["PSo21UIAppearanceContainer", "UINavigationController"]
+- ["PSo21UIAppearanceContainer", "btn"]
+- ["PSo21UIAppearanceContainer", "btnClickAction"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "didSelectDate"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "montherNum"]
+- ["PSo21UIAppearanceContainer", "monthesNum"]
+- !private ["PSo21UIAppearanceContainer", "present"]
+- ["PSo21UIAppearanceContainer", "selectDate"]
+- !private ["PSo21UIAppearanceContainer", "setTitle"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "setTitle"]
+- !private ["PSo26UICollectionViewDataSource", "didSelectDate"]
+- !private ["PSo26UICollectionViewDataSource", "init"]
+- !private ["PSo26UICollectionViewDataSource", "montherNum"]
+- !private ["PSo26UICollectionViewDataSource", "selectDate"]
+- !private ["PSo24UICollectionViewDelegate", "didSelectDate"]
+- !private ["PSo24UICollectionViewDelegate", "init"]
+- !private ["PSo24UICollectionViewDelegate", "montherNum"]
+- !private ["PSo24UICollectionViewDelegate", "selectDate"]
+- !private ["PSo18UIContentContainer", "Date"]
+- !private ["PSo18UIContentContainer", "HLCalendarVC"]
+- !private ["PSo18UIContentContainer", "Int"]
+- !private ["PSo18UIContentContainer", "UINavigationController"]
+- ["PSo18UIContentContainer", "btn"]
+- ["PSo18UIContentContainer", "btnClickAction"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "didSelectDate"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "montherNum"]
+- ["PSo18UIContentContainer", "monthesNum"]
+- !private ["PSo18UIContentContainer", "present"]
+- ["PSo18UIContentContainer", "selectDate"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["CSo9UIControl", "setTitle"]
+- !private ["CSo9UIControl", "text"]
+- !private ["VSC14UIControlState", "deinit"]
+- !private ["VSC14UIControlState", "normal"]
+- !private ["PSo17UICoordinateSpace", "setTitle"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "setTitle"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "Date"]
+- !private ["PSo18UIFocusEnvironment", "HLCalendarVC"]
+- !private ["PSo18UIFocusEnvironment", "Int"]
+- !private ["PSo18UIFocusEnvironment", "UINavigationController"]
+- ["PSo18UIFocusEnvironment", "btn"]
+- ["PSo18UIFocusEnvironment", "btnClickAction"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "didSelectDate"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "montherNum"]
+- ["PSo18UIFocusEnvironment", "monthesNum"]
+- !private ["PSo18UIFocusEnvironment", "present"]
+- ["PSo18UIFocusEnvironment", "selectDate"]
+- !private ["PSo18UIFocusEnvironment", "setTitle"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "setTitle"]
+- !private ["PSo11UIFocusItem", "text"]
+- !private ["PSo10UIKeyInput", "text"]
+- ["CSo22UINavigationController", "deinit"]
+- !private ["CSo22UINavigationController", "init"]
+- ["CSo11UIResponder", "Date"]
+- !private ["CSo11UIResponder", "HLCalendarVC"]
+- !private ["CSo11UIResponder", "Int"]
+- !private ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UINavigationController"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "btn"]
+- ["CSo11UIResponder", "btnClickAction"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "didSelectDate"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "montherNum"]
+- ["CSo11UIResponder", "monthesNum"]
+- !private ["CSo11UIResponder", "present"]
+- ["CSo11UIResponder", "selectDate"]
+- !private ["CSo11UIResponder", "setTitle"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "Date"]
+- !private ["PSo30UIResponderStandardEditActions", "HLCalendarVC"]
+- !private ["PSo30UIResponderStandardEditActions", "Int"]
+- !private ["PSo30UIResponderStandardEditActions", "UINavigationController"]
+- ["PSo30UIResponderStandardEditActions", "btn"]
+- ["PSo30UIResponderStandardEditActions", "btnClickAction"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "didSelectDate"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "montherNum"]
+- ["PSo30UIResponderStandardEditActions", "monthesNum"]
+- !private ["PSo30UIResponderStandardEditActions", "present"]
+- ["PSo30UIResponderStandardEditActions", "selectDate"]
+- !private ["PSo30UIResponderStandardEditActions", "setTitle"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo20UIScrollViewDelegate", "didSelectDate"]
+- !private ["PSo20UIScrollViewDelegate", "init"]
+- !private ["PSo20UIScrollViewDelegate", "montherNum"]
+- !private ["PSo20UIScrollViewDelegate", "selectDate"]
+- !private ["PSo16UIStateRestoring", "Date"]
+- !private ["PSo16UIStateRestoring", "HLCalendarVC"]
+- !private ["PSo16UIStateRestoring", "Int"]
+- !private ["PSo16UIStateRestoring", "UINavigationController"]
+- ["PSo16UIStateRestoring", "btn"]
+- ["PSo16UIStateRestoring", "btnClickAction"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "didSelectDate"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "montherNum"]
+- ["PSo16UIStateRestoring", "monthesNum"]
+- !private ["PSo16UIStateRestoring", "present"]
+- ["PSo16UIStateRestoring", "selectDate"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo11UITextField", "text"]
+- !private ["PSo11UITextInput", "text"]
+- !private ["PSo17UITextInputTraits", "text"]
+- !private ["PSo18UITraitEnvironment", "Date"]
+- !private ["PSo18UITraitEnvironment", "HLCalendarVC"]
+- !private ["PSo18UITraitEnvironment", "Int"]
+- !private ["PSo18UITraitEnvironment", "UINavigationController"]
+- ["PSo18UITraitEnvironment", "btn"]
+- ["PSo18UITraitEnvironment", "btnClickAction"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "didSelectDate"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "montherNum"]
+- ["PSo18UITraitEnvironment", "monthesNum"]
+- !private ["PSo18UITraitEnvironment", "present"]
+- ["PSo18UITraitEnvironment", "selectDate"]
+- !private ["PSo18UITraitEnvironment", "setTitle"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "setTitle"]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "Date"]
+- !private ["CSo16UIViewController", "HLCalendarVC"]
+- !private ["CSo16UIViewController", "Int"]
+- !private ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "UIButton"]
+- !private ["CSo16UIViewController", "UINavigationController"]
+- ["CSo16UIViewController", "UITextField"]
+- ["CSo16UIViewController", "btn"]
+- ["CSo16UIViewController", "btnClickAction"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- !private ["CSo16UIViewController", "didSelectDate"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "montherNum"]
+- ["CSo16UIViewController", "monthesNum"]
+- !private ["CSo16UIViewController", "present"]
+- ["CSo16UIViewController", "selectDate"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C16HlCalendar_Swift14ViewController", "Date"]
+- !private ["C16HlCalendar_Swift14ViewController", "HLCalendarVC"]
+- !private ["C16HlCalendar_Swift14ViewController", "Int"]
+- !private ["C16HlCalendar_Swift14ViewController", "String"]
+- ["C16HlCalendar_Swift14ViewController", "UIButton"]
+- !private ["C16HlCalendar_Swift14ViewController", "UINavigationController"]
+- ["C16HlCalendar_Swift14ViewController", "UITextField"]
+- ["C16HlCalendar_Swift14ViewController", "btn"]
+- ["C16HlCalendar_Swift14ViewController", "btnClickAction"]
+- ["C16HlCalendar_Swift14ViewController", "deinit"]
+- ["C16HlCalendar_Swift14ViewController", "didReceiveMemoryWarning"]
+- ["C16HlCalendar_Swift14ViewController", "init"]
+- ["C16HlCalendar_Swift14ViewController", "monthesNum"]
+- !private ["C16HlCalendar_Swift14ViewController", "present"]
+- ["C16HlCalendar_Swift14ViewController", "selectDate"]
+- ["C16HlCalendar_Swift14ViewController", "viewDidLoad"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "setTitle"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps9_Hashable", "Date"]
+- !private ["Ps9_Hashable", "HLCalendarVC"]
+- !private ["Ps9_Hashable", "Int"]
+- !private ["Ps9_Hashable", "UINavigationController"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "btn"]
+- ["Ps9_Hashable", "btnClickAction"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "didSelectDate"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "montherNum"]
+- ["Ps9_Hashable", "monthesNum"]
+- !private ["Ps9_Hashable", "present"]
+- ["Ps9_Hashable", "selectDate"]
+- !private ["Ps9_Hashable", "setTitle"]
+- !private ["Ps9_Hashable", "text"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps17BitwiseOperations"
+- "Sb"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "V10Foundation4Date"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "C16HlCalendar_Swift12HLCalendarVC"
+- "Ps8Hashable"
+- "SQ"
+- !private "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Ps9OptionSet"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps10SetAlgebra"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- !private "PSo26UICollectionViewDataSource"
+- !private "PSo24UICollectionViewDelegate"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "CSo9UIControl"
+- !private "VSC14UIControlState"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "PSo10UIKeyInput"
+- "CSo22UINavigationController"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- !private "CSo11UITextField"
+- !private "PSo11UITextInput"
+- !private "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "C16HlCalendar_Swift14ViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "7b7441ce70f631079b6b6da1fe22e744"

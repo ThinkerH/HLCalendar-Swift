@@ -1,0 +1,157 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WHITE_COLOR"
+- "SCREEN_WIDTH"
+- "SCREEN_HEIGHT"
+- "MAIN_COLOR"
+- "COLOR"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- !private "Float"
+- "MAIN_COLOR"
+- "COLOR"
+- "WHITE_COLOR"
+- "SCREEN_WIDTH"
+- "/"
+- "SCREEN_HEIGHT"
+- "CGFloat"
+- "UIScreen"
+- "UIColor"
+depends-member:
+- !private ["Ps16AbsoluteValuable", "init"]
+- ["Ps9AnyObject", "bounds"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "main"]
+- ["Ps9AnyObject", "white"]
+- !private ["Ps19BinaryFloatingPoint", "init"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC6CGRect", "deinit"]
+- ["VSC6CGRect", "height"]
+- ["VSC6CGRect", "width"]
+- ["Ps7CVarArg", "bounds"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "main"]
+- ["Ps7CVarArg", "white"]
+- !private ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "bounds"]
+- ["Ps28CustomDebugStringConvertible", "height"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "main"]
+- ["Ps28CustomDebugStringConvertible", "white"]
+- ["Ps28CustomDebugStringConvertible", "width"]
+- ["Ps29CustomPlaygroundQuickLookable", "height"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps29CustomPlaygroundQuickLookable", "width"]
+- ["Ps17CustomReflectable", "height"]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps17CustomReflectable", "width"]
+- ["Ps23CustomStringConvertible", "bounds"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "main"]
+- ["Ps23CustomStringConvertible", "white"]
+- ["Ps9Equatable", "bounds"]
+- ["Ps9Equatable", "height"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "main"]
+- ["Ps9Equatable", "white"]
+- ["Ps9Equatable", "width"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["Sf", "deinit"]
+- !private ["Sf", "init"]
+- !private ["Ps13FloatingPoint", "init"]
+- ["Ps8Hashable", "bounds"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "main"]
+- ["Ps8Hashable", "white"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "white"]
+- ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", "white"]
+- ["CSo8NSObject", "bounds"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "main"]
+- ["CSo8NSObject", "white"]
+- ["PSo16NSObjectProtocol", "bounds"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "main"]
+- ["PSo16NSObjectProtocol", "white"]
+- ["PSo14NSSecureCoding", "init"]
+- ["PSo14NSSecureCoding", "white"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "init"]
+- ["CSo7UIColor", "deinit"]
+- ["CSo7UIColor", "init"]
+- ["CSo7UIColor", "white"]
+- ["CSo8UIScreen", "bounds"]
+- ["CSo8UIScreen", "deinit"]
+- ["CSo8UIScreen", "main"]
+- ["PSo18UITraitEnvironment", "bounds"]
+- ["PSo18UITraitEnvironment", "main"]
+- !private ["Ps15_CVarArgAligned", "init"]
+- !private ["Ps22_CVarArgPassedAsDouble", "init"]
+- !private ["Ps33_ExpressibleByBuiltinFloatLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- ["Ps26_ExpressibleByColorLiteral", "init"]
+- ["Ps26_ExpressibleByColorLiteral", "white"]
+- ["Ps9_Hashable", "bounds"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "main"]
+- ["Ps9_Hashable", "white"]
+- ["Ps21_ObjectiveCBridgeable", "height"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- ["Ps21_ObjectiveCBridgeable", "width"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- !private "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- !private "Ps19BinaryFloatingPoint"
+- "V12CoreGraphics7CGFloat"
+- "VSC6CGRect"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "Sf"
+- !private "Ps13FloatingPoint"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- "CSo7UIColor"
+- "CSo8UIScreen"
+- "PSo18UITraitEnvironment"
+- !private "Ps15_CVarArgAligned"
+- !private "Ps22_CVarArgPassedAsDouble"
+- !private "Ps33_ExpressibleByBuiltinFloatLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps26_ExpressibleByColorLiteral"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "a1e0aba1b7851818a69a4e66df9eef14"

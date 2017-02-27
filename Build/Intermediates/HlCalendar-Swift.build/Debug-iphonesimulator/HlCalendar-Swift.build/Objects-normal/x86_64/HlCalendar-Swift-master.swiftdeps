@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5acb60f2193873bc31c66d8fb46dc5d7"
+build_time: [541480181, 474616000]
+inputs:
+  "/Users/helloworld_l/Desktop/HlCalendar-Swift/HlCalendar-Swift/HLCalendar/HLCalendarVC.swift": [541480181, 0]
+  "/Users/helloworld_l/Desktop/HlCalendar-Swift/HlCalendar-Swift/HLCalendar/HLCalendar.swift": [541480064, 0]
+  "/Users/helloworld_l/Desktop/HlCalendar-Swift/HlCalendar-Swift/ViewController.swift": [541477488, 0]
+  "/Users/helloworld_l/Desktop/HlCalendar-Swift/HlCalendar-Swift/HLCalendar/CalendarDayCVCell.swift": [541474561, 0]
+  "/Users/helloworld_l/Desktop/HlCalendar-Swift/HlCalendar-Swift/Common.swift": [541476304, 0]
+  "/Users/helloworld_l/Desktop/HlCalendar-Swift/HlCalendar-Swift/HLCalendar/CalendarHeaderCRV.swift": [541439918, 0]
+  "/Users/helloworld_l/Desktop/HlCalendar-Swift/HlCalendar-Swift/AppDelegate.swift": [541319173, 0]
